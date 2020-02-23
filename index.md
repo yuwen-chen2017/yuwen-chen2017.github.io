@@ -1,1 +1,1 @@
-## 风樯动，龟蛇静，起宏图。一桥飞架南北，天堑变通途。
+$$(\nabla \dot \frac{\nabla f}{\sqrt(1+|\nabla f|^2)} -trK=0$$
