@@ -1,7 +1,7 @@
 # Numerical simulation for "Jang" equation
 
 In this case , we study a $$ g_{xx}+\varepsilon \frac{g}{\sqrt{1-g^2}}=S$$
-  we need $|g|<leq 0 $
+  we need $|g|<\leq 0 $
  the source term we need
                    $$
                    \[
