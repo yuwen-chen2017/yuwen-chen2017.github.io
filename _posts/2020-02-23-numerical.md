@@ -1,6 +1,5 @@
 # Numerical simulation for "Jang" equation
-
-<font color=gray size=72>color=Navy
+<font color=gray size=72>color=Navy <>
 In this case , we study a $$ g_{xx}+\varepsilon \frac{g}{1-g^2}=S$$
   we need $|g|<leq 0 $
  the source term we need
@@ -14,4 +13,5 @@ In this case , we study a $$ g_{xx}+\varepsilon \frac{g}{1-g^2}=S$$
                    \end{array}
                    /]
                    $$
-</font>
+  </font>
+
